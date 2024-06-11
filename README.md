@@ -47,8 +47,6 @@ platform: macOS Sonoma 14.5
 [error] Error: An unexpected error has occurred.
 ```
 
-Screenshot 2024-06-11 at 7.49.06 PM.png
-
 ### via Cloud Functions and Admin SDK
 
 1. Run `firebase emulators:start --project demo-project`
