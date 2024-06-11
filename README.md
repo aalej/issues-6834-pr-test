@@ -49,7 +49,7 @@ platform: macOS Sonoma 14.5
 
 Screenshot 2024-06-11 at 7.49.06 PM.png
 
-### A warning message on Cloud Functions
+### via Cloud Functions and Admin SDK
 
 1. Run `firebase emulators:start --project demo-project`
 2. Go to http://127.0.0.1:4000/storage/demo-project.appspot.com
