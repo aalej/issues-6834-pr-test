@@ -1,0 +1,19 @@
+{
+  "name": "invalid whitespace.png",
+  "bucket": "demo-project.appspot.com",
+  "metageneration": 1,
+  "generation": 1718110649001,
+  "contentType": "image/png",
+  "storageClass": "STANDARD",
+  "contentDisposition": "inline",
+  "downloadTokens": [
+    "28bb5c45-3f7f-4c34-b5c3-19bc4c7fac49"
+  ],
+  "etag": "BsimBlY2jsCurGsW8sRjD68h39A",
+  "customMetadata": {},
+  "timeCreated": "2024-06-11T12:57:29.001Z",
+  "updated": "2024-06-11T12:57:29.001Z",
+  "size": 3157139,
+  "md5Hash": "/fRei8dCcrGlNlpjV5A3pQ==",
+  "crc32c": "4285979419"
+}
