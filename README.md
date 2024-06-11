@@ -69,6 +69,6 @@ Screenshot 2024-06-11 at 7.49.06 PM.png
 [error] Error: An unexpected error has occurred.
 ```
 
-### Notes
+## Notes
 
 Tested the above scenarios using the changes made to Firebase Tools. No errors were raised in all cases
